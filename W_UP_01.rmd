@@ -1,6 +1,6 @@
 ---
 title: "W_UP_01"
-author: "your name here"
+author: "Emani Brown"
 date: "fall 2020"
 output: html_document
 ---
@@ -30,6 +30,8 @@ $H_A$: The average number of pushups done by line players is statistically diffe
 # Methods
 
 <!--Decide on your methods: use "variable analysis" or other appropriate descriptors. Make sure to choose at least one graphical method and at least one numerical method.!-->
+
+pushups are a numaical position categorical, since we expain pushups by postion, we use the numaical~ cat helper file
 
 # Results
 
